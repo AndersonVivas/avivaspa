@@ -1,0 +1,6 @@
+{
+  "name": "Iron Man Test",
+  "alterego": "Tony Stark",
+  "description": "Updated description",
+  "powers": ["Armor", "Flight", "Intelligence"]
+}
